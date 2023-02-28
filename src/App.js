@@ -5,6 +5,7 @@ import ProfileInfo from './components/profileinfo';
 import SubmitBar from './components/submitbar';
 import ContentSection from './components/contentsection';
 import NewsSection from './components/newssidebar';
+import PromotedSection from './components/promoted';
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
       <SubmitBar/>
       <ContentSection/>
       <NewsSection/>
+      <PromotedSection/>
      </body>
      <footer></footer>
     </div>
