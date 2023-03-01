@@ -11,8 +11,8 @@ import { peopleIcon } from '../images/index'
 const Navigation = () => {
     return(
     <div id='navigation-section' className ='section'>
-        <img className='nav-image' src={logo} alt='logo'/>
-        <input type='text' placeholder='Search Bar'/>
+        <img id='logo' className='nav-image' src={logo} alt='logo'/>
+        <input id='nav-input' type='text' placeholder='Search Bar'/>
         <div id='right-nav-items'>
             <div className='nav-button'>
                 <img className='nav-image' src={homeIcon}/>

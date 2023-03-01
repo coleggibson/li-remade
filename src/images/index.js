@@ -17,8 +17,8 @@ export const newspaper = require('./newspaper.png')
 export const peopleIcon = require('./people.png')
 export const target = require('./target.png')
 export const videoIcon = require('./video.png')
-export const person1 = 'src/images/people.png'
-export const person2 = 'src/images/pexels-italo-melo-2379004.jpg'
-export const person3 = 'src/images/pexels-pixabay-220453.jpg'
+export const person1 = require('./pexels-chloe-1043471.jpg')
+export const person2 = require('./pexels-italo-melo-2379004.jpg')
+export const person3 = require('./pexels-pixabay-220453.jpg')
 
 
