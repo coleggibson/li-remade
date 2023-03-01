@@ -1,3 +1,5 @@
+import '../style/newssidebar.css'
+
 const NewsSection = () => {
     return (
         <div id='news-section' className='section'>

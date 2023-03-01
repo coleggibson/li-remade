@@ -1,1 +1,19 @@
+.section {
+  border-radius:10px;
+  background-color:ghostwhite;
+}
+
+#main-body{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 2fr;
+  grid-gap: 30px;
+  background-color: rgb(233, 228, 228);
+}
+
+
+
+.middle-column {
+  width: 700px;
+}
 

@@ -1,6 +1,8 @@
+import "../style/contentsection.css"
+
 const ContentSection = () => {
     return (
-        <div id='content-section' className ='section'>
+        <div id='content-section' className ='section middle-column'>
             <div className='timeline-post'>
                 <div className='profile-info'>
                     <div className='profile-photo'>Profile pic</div>

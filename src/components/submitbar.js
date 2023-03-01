@@ -1,6 +1,6 @@
 const SubmitBar = () => {
     return (
-        <div id='submit-section' className='section'>
+        <div id='submit-section' className='section middle-column'>
             <div>profile pic</div>
             <input type='text' placeholder='Start a post'/>
             <div id='submit-options'>

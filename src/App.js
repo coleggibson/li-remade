@@ -13,7 +13,7 @@ function App() {
      <header>
       <Navigation/>
      </header>
-     <body>
+     <body id='main-body'>
       <ProfileInfo/>
       <SubmitBar/>
       <ContentSection/>

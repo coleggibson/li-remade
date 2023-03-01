@@ -1,0 +1,6 @@
+#profile-section{
+    grid-row-start: 1;
+    grid-row-end: 5;
+    width: fit-content;
+    margin-left: 50px;
+}

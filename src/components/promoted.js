@@ -1,3 +1,6 @@
+
+import '../style/promoted.css'
+
 const PromotedSection = () => {
     return (
         <div id='promoted-section' className='section'>
