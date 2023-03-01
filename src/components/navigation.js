@@ -1,13 +1,17 @@
 import '../style/navigation.css'
 
+// import '../images/index'
+import {logo} from '../images/index'
+import {homeIcon} from '../images/index.js'
+
 const Navigation = () => {
     return(
     <div id='navigation-section' className ='section'>
-        <div>LinkedIn Logo</div>
+        <img src={logo} alt='logo'/>
         <input type='text' placeholder='Search Bar'/>
         <div id='right-nav-items'>
             <div className='nav-button'>
-                <div>Home</div>
+                <img src={homeIcon}/>
             </div>
             <div className='nav-button'>
                 <div>My Network</div>

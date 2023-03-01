@@ -6,6 +6,8 @@ import SubmitBar from './components/submitbar';
 import ContentSection from './components/contentsection';
 import NewsSection from './components/newssidebar';
 import PromotedSection from './components/promoted';
+import images from './images';
+
 
 function App() {
   return (
