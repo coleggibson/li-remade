@@ -1,19 +1,22 @@
 .section {
   border-radius:10px;
   background-color:ghostwhite;
+  width: 100%;
 }
 
 #main-body{
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   grid-template-rows: 2fr;
-  grid-gap: 60px;
+  grid-gap: 50px;
   background-color: rgb(233, 228, 228);
+  padding: 0;
 }
 
 
 
 .middle-column {
   width: 500px;
+  padding: 0px;
 }
 
