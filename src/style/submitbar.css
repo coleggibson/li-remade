@@ -1,0 +1,30 @@
+#submit-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100px;
+    padding-top: 10px;
+    padding-left:40px;
+    padding-right: 40px;
+}
+
+.submit-subsection {
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+}
+
+#submit-bar-top {
+    margin-bottom: 20px;
+}
+
+#submit-input {
+    width: 100%;
+    height: 100%;
+    border-radius: 40px;
+    border-style: solid;
+}
+.submit-bar-icon {
+    height: 30px;
+}
