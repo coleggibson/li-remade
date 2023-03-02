@@ -1,11 +1,11 @@
 import '../style/submitbar.css'
-import {calendar, gallery, newspaper, videoIcon} from '../images/index'
+import {calendar, gallery, headshot, newspaper, videoIcon} from '../images/index'
 
 const SubmitBar = () => {
     return (
         <div id='submit-section' className='section middle-column'>
             <div id='submit-bar-top' className='submit-subsection'>
-                <div>profile pic</div>
+            <img className='user-photo' src={headshot}/>
                 <input id='submit-input' type='text' placeholder='Start a post'/>
             </div>
             <div id='submit-bar-bottom' className='submit-subsection'>

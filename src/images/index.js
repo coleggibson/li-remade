@@ -24,5 +24,6 @@ export const send = require('./send.png')
 export const repost = require('./repost.png')
 export const comment = require('./repost.png')
 export const likeIcon = require('./likeicon.png')
+export const headshot = require('./headshot.jpg')
 
 

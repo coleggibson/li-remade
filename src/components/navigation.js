@@ -1,7 +1,7 @@
 import '../style/navigation.css'
 
 // import '../images/index'
-import {bell, logo, target, workIcon} from '../images/index'
+import {bell, headshot, logo, target, workIcon} from '../images/index'
 import {homeIcon} from '../images/index.js'
 import { briefcase } from '../images/index'
 import { messageBubble } from '../images/index'
@@ -34,7 +34,8 @@ const Navigation = () => {
             <img className='nav-image' src={bell}/>
             <div>Notifications</div>
             </div>
-            <div className='nav-button'>
+            <div className='user-nav-button'>
+                <img src={headshot} className='user-photo-nav'/>
                 <div>Me</div>
             </div>
             <div className='nav-button'>
