@@ -1,5 +1,7 @@
 import { person1, person2, person3 } from "../images"
 import "../style/contentsection.css"
+import { likeIcon, comment, repost, send } from "../images"
+
 
 const ContentSection = () => {
     return (
@@ -11,28 +13,28 @@ const ContentSection = () => {
                     </div>
                     <div className='post-right-content'>
                     <div className='profile-name'>Todd Downing (Sales Guru 4 You!)</div>
-                    <div className='profile-info'>Sales and marketing expert with over 100 years experience</div>
+                    <div className='profile-description'>Sales and marketing expert with over 100 years experience</div>
                     <div className='post-time'>3d</div>
                     </div>
                 </div>
                 <div className='post-content'>Are you tired of being tired? Are you not making the sales you NEED or WANT to make? Does the world bring you down spin you around and back again? Well follow me for 75 tips to keep your mind at ease and your WALLET full of dough. </div>
-                <div className='post-buttons'>
-                    <div>profile</div>
-                    <div>
-                    <img></img>
-                        Like
+                <div className='react-buttons-container'>
+                <div>profile</div>
+                    <div className='react-button'>
+                    <img className='content-icon' src={likeIcon}></img>
+                        <div className='react-button-title'>Like</div>
                     </div>
-                    <div>
-                    <img></img>
-                        Comment
+                    <div className='react-button'>
+                    <img className='content-icon' src={comment}></img>
+                    <div className='react-button-title'>Comment</div>
                     </div>
-                    <div>
-                    <img></img>
-                        Repost
+                    <div className='react-button'>
+                    <img className='content-icon' src={repost}></img>
+                    <div className='react-button-title'>React</div>
                     </div>
-                    <div>
-                    <img></img>
-                        Send
+                    <div className='react-button'>
+                    <img className='content-icon' src={send}></img>
+                    <div className='react-button-title'>Send</div>
                     </div>
                 </div>
             </div>
@@ -48,6 +50,25 @@ const ContentSection = () => {
                     </div>
                 </div>
                 <div className='post-bottom-content'>Looking for work.  I'm proficient in mongolian throat singing and procrastination. Will dance and sing if required.</div>
+                <div className='react-buttons-container'>
+                <div>profile</div>
+                    <div className='react-button'>
+                    <img className='content-icon' src={likeIcon}></img>
+                        <div className='react-button-title'>Like</div>
+                    </div>
+                    <div className='react-button'>
+                    <img className='content-icon' src={comment}></img>
+                    <div className='react-button-title'>Comment</div>
+                    </div>
+                    <div className='react-button'>
+                    <img className='content-icon' src={repost}></img>
+                    <div className='react-button-title'>React</div>
+                    </div>
+                    <div className='react-button'>
+                    <img className='content-icon' src={send}></img>
+                    <div className='react-button-title'>Send</div>
+                    </div>
+                </div>
             </div>
             <div className='timeline-post'>
             <div className='post-top-info'>
@@ -61,6 +82,25 @@ const ContentSection = () => {
                     </div>
                 </div>
                 <div className='post-bottom-content'>Celebrating 5 years at Google!</div>
+                <div className='react-buttons-container'>
+                <div>profile</div>
+                    <div className='react-button'>
+                    <img className='content-icon' src={likeIcon}></img>
+                        <div className='react-button-title'>Like</div>
+                    </div>
+                    <div className='react-button'>
+                    <img className='content-icon' src={comment}></img>
+                    <div className='react-button-title'>Comment</div>
+                    </div>
+                    <div className='react-button'>
+                    <img className='content-icon' src={repost}></img>
+                    <div className='react-button-title'>React</div>
+                    </div>
+                    <div className='react-button'>
+                    <img className='content-icon' src={send}></img>
+                    <div className='react-button-title'>Send</div>
+                    </div>
+                </div>
             </div>
         </div>
     )

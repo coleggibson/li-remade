@@ -41,8 +41,8 @@ const Navigation = () => {
             <img className='nav-image' src={workIcon}/>
             <div>Work</div>
             </div>
-            <div className='nav-button'>
-            <img className='nav-image' src={target}/>
+            <div id='right-nav-button' className='nav-button'>
+            <img id='right-nav-image' className='nav-image' src={target}/>
             <div>Advertise</div>
             </div>
         </div>

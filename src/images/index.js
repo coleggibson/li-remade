@@ -20,5 +20,9 @@ export const videoIcon = require('./video.png')
 export const person1 = require('./pexels-chloe-1043471.jpg')
 export const person2 = require('./pexels-italo-melo-2379004.jpg')
 export const person3 = require('./pexels-pixabay-220453.jpg')
+export const send = require('./send.png')
+export const repost = require('./repost.png')
+export const comment = require('./repost.png')
+export const likeIcon = require('./likeicon.png')
 
 

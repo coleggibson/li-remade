@@ -44,6 +44,31 @@
     margin-right: 10px;
 }
 
-.post-buttons {
+.react-buttons-container {
     display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    padding-top: 20px;
+    width: 100%;
+}
+
+.react-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40px;
+    width: 90px;
+    padding: 10px;
+    border-radius: 7px;
+}
+
+.react-button:hover {
+    background-color: rgb(233, 228, 228);
+    cursor: pointer;
+    transition: .5s;
+}
+
+.content-icon {
+    height: 25px;
+    margin-right: 5px;
 }
