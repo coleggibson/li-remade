@@ -27,4 +27,11 @@
 }
 .submit-bar-icon {
     height: 30px;
+    margin-right: 10px;
+}
+
+.submit-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
