@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.001db4b4.css",
+    "main.js": "/react-gh-pages/static/js/main.5b86e048.js",
+    "static/js/787.7c498391.chunk.js": "/react-gh-pages/static/js/787.7c498391.chunk.js",
+    "static/media/pexels-pixabay-220453.jpg": "/react-gh-pages/static/media/pexels-pixabay-220453.6b73fd246a999fb8e32e.jpg",
+    "static/media/pexels-chloe-1043471.jpg": "/react-gh-pages/static/media/pexels-chloe-1043471.b336031de8e710ee963a.jpg",
+    "static/media/pexels-italo-melo-2379004.jpg": "/react-gh-pages/static/media/pexels-italo-melo-2379004.1f3e2a391e8eb0ab30f9.jpg",
+    "static/media/headshot.jpg": "/react-gh-pages/static/media/headshot.9f49d4ffcf12d9db7e35.jpg",
+    "static/media/likeicon.png": "/react-gh-pages/static/media/likeicon.46ded05362a756648028.png",
+    "static/media/send.png": "/react-gh-pages/static/media/send.8698d16523c5f6ab7686.png",
+    "index.html": "/react-gh-pages/index.html",
+    "main.001db4b4.css.map": "/react-gh-pages/static/css/main.001db4b4.css.map",
+    "main.5b86e048.js.map": "/react-gh-pages/static/js/main.5b86e048.js.map",
+    "787.7c498391.chunk.js.map": "/react-gh-pages/static/js/787.7c498391.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.001db4b4.css",
+    "static/js/main.5b86e048.js"
+  ]
+}
