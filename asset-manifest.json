@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/linkedinclone/static/css/main.001db4b4.css",
-    "main.js": "/linkedinclone/static/js/main.8e07915c.js",
-    "static/js/787.7c498391.chunk.js": "/linkedinclone/static/js/787.7c498391.chunk.js",
-    "static/media/pexels-pixabay-220453.jpg": "/linkedinclone/static/media/pexels-pixabay-220453.6b73fd246a999fb8e32e.jpg",
-    "static/media/pexels-chloe-1043471.jpg": "/linkedinclone/static/media/pexels-chloe-1043471.b336031de8e710ee963a.jpg",
-    "static/media/pexels-italo-melo-2379004.jpg": "/linkedinclone/static/media/pexels-italo-melo-2379004.1f3e2a391e8eb0ab30f9.jpg",
-    "static/media/headshot.jpg": "/linkedinclone/static/media/headshot.9f49d4ffcf12d9db7e35.jpg",
-    "static/media/likeicon.png": "/linkedinclone/static/media/likeicon.46ded05362a756648028.png",
-    "static/media/send.png": "/linkedinclone/static/media/send.8698d16523c5f6ab7686.png",
-    "index.html": "/linkedinclone/index.html",
-    "main.001db4b4.css.map": "/linkedinclone/static/css/main.001db4b4.css.map",
-    "main.8e07915c.js.map": "/linkedinclone/static/js/main.8e07915c.js.map",
-    "787.7c498391.chunk.js.map": "/linkedinclone/static/js/787.7c498391.chunk.js.map"
+    "main.css": "/li-remade/static/css/main.001db4b4.css",
+    "main.js": "/li-remade/static/js/main.f5c5a580.js",
+    "static/js/787.7c498391.chunk.js": "/li-remade/static/js/787.7c498391.chunk.js",
+    "static/media/pexels-pixabay-220453.jpg": "/li-remade/static/media/pexels-pixabay-220453.6b73fd246a999fb8e32e.jpg",
+    "static/media/pexels-chloe-1043471.jpg": "/li-remade/static/media/pexels-chloe-1043471.b336031de8e710ee963a.jpg",
+    "static/media/pexels-italo-melo-2379004.jpg": "/li-remade/static/media/pexels-italo-melo-2379004.1f3e2a391e8eb0ab30f9.jpg",
+    "static/media/headshot.jpg": "/li-remade/static/media/headshot.9f49d4ffcf12d9db7e35.jpg",
+    "static/media/likeicon.png": "/li-remade/static/media/likeicon.46ded05362a756648028.png",
+    "static/media/send.png": "/li-remade/static/media/send.8698d16523c5f6ab7686.png",
+    "index.html": "/li-remade/index.html",
+    "main.001db4b4.css.map": "/li-remade/static/css/main.001db4b4.css.map",
+    "main.f5c5a580.js.map": "/li-remade/static/js/main.f5c5a580.js.map",
+    "787.7c498391.chunk.js.map": "/li-remade/static/js/787.7c498391.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.001db4b4.css",
-    "static/js/main.8e07915c.js"
+    "static/js/main.f5c5a580.js"
   ]
 }
