@@ -1,5 +1,13 @@
 #news-section {
     /* position: relative; */
     margin-right: 50px;
+    display: flex;
+    flex-direction: column;
+    height: fit-content;
+    padding: 15px;
     
+}
+
+.news-headline {
+    margin-top: 10px;
 }

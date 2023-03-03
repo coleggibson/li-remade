@@ -6,19 +6,8 @@ const PromotedSection = () => {
         <div id='promoted-section' className='section'>
             <div id='promoted-title'>Promoted</div>
             <div className='ad-container'>
-                <div>Ad picture</div>
-                <div className='ad-title'>Ad title</div>
-                <div className='ad-content'>Ad content</div>
-            </div>
-            <div className='ad-container'>
-                <div>Ad picture</div>
-                <div className='ad-title'>Ad title</div>
-                <div className='ad-content'>Ad content</div>
-            </div>
-            <div className='ad-container'>
-                <div>Ad picture</div>
-                <div className='ad-title'>Ad title</div>
-                <div className='ad-content'>Ad content</div>
+                <div className='ad-title'>It's easy to sell online.</div>
+                <div className='ad-content'>Sell online with a domain and online store from GoDaddy.</div>
             </div>
         </div>
     )

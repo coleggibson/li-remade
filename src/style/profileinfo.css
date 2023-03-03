@@ -14,3 +14,7 @@
     height: 80px;
     width: 80px;
 }
+
+.user-description, .profile-views, .profile-impressions {
+    font-weight: lighter;
+}
