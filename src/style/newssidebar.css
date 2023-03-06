@@ -1,7 +1,5 @@
 #news-section {
-    /* position: relative; */
-    margin-right: 50px;
-    display: flex;
+    /* display: flex; */
     flex-direction: column;
     height: fit-content;
     padding: 15px;

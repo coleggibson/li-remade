@@ -1,5 +1,6 @@
 import { headshot } from '../images'
 import '../style/profileinfo.css'
+import '../App.css'
 
 const ProfileInfo = () => {
     return (

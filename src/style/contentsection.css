@@ -1,8 +1,4 @@
 #content-section {
-    width: 100%;
-    grid-row-start: 2;
-    grid-row-end: 5;
-    grid-column-start: 2;
     display: grid;
     grid-template-rows: 1fr 1fr 1fr;
     grid-gap: 8px;
@@ -12,7 +8,6 @@
 }
 
 .timeline-post {
-    /* display: flex; */
     flex-direction: column;
     justify-content: center;
     align-items: center;
