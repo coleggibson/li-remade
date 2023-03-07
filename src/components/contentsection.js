@@ -1,4 +1,4 @@
-import { headshot, person1, person2, person3 } from "../images"
+import { headshot, motivation, person1, person2, person3 } from "../images"
 import "../style/contentsection.css"
 import { likeIcon, comment, repost, send } from "../images"
 
@@ -18,6 +18,7 @@ const ContentSection = () => {
                     </div>
                 </div>
                 <div className='post-content'>Are you tired of being tired? Are you not making the sales you NEED or WANT to make? Does the world bring you down spin you around and back again? Well follow me for 75 tips to keep your mind at ease and your WALLET full of dough. </div>
+                <img className='post-image' src={motivation}></img>
                 <div className='react-buttons-container'>
                 <img className='user-photo' src={headshot}/>
                     <div className='react-button'>

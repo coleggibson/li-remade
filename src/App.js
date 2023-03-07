@@ -10,12 +10,25 @@ import images from './images';
 
 
 function App() {
+  const hideDiv = () => {
+    document.getElementById('content-block').style.display = "none"
+    const pics = document.getElementsByClassName('nav-image')
+        
+        for (let x=0; x < pics.length; x++) {
+        pics[x].style.display = "block";
+        }
+
+        document.getElementsByClassName('user-photo-nav')[0].style.display = 'block'
+        document.getElementById('nav-input').style.display = 'none'
+  }
+
   return (
     <div className="App">
      <header>
       <Navigation/>
      </header>
      <body id='main-body'>
+      <div id='content-block' onClick={() => hideDiv()}></div>
       <ProfileInfo/>
       <SubmitBar/>
       <ContentSection/>

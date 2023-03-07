@@ -25,5 +25,7 @@ export const repost = require('./repost.png')
 export const comment = require('./comment.png')
 export const likeIcon = require('./likeicon.png')
 export const headshot = require('./headshot.jpg')
+export const searchIcon = require('./searchicon.png')
+export const motivation =require('./motivationalpost.jpg')
 
 

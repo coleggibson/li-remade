@@ -1,6 +1,5 @@
 #content-section {
     display: grid;
-    grid-template-rows: 1fr 1fr 1fr;
     grid-gap: 8px;
     flex-direction: column;
     justify-items: center;
@@ -21,7 +20,6 @@
 
 .post-top-info {
     display: flex;
-    /* width: 100%; */
 }
 .profile-name {
     font-weight: bold;
@@ -68,4 +66,9 @@
 .content-icon {
     height: 25px;
     margin-right: 5px;
+}
+
+.post-image {
+    width: 100%;
+    height: 100%;
 }
