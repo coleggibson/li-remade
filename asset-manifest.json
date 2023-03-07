@@ -1,21 +1,23 @@
 {
   "files": {
-    "main.css": "/li-remade/static/css/main.001db4b4.css",
-    "main.js": "/li-remade/static/js/main.35770897.js",
+    "main.css": "/li-remade/static/css/main.78c3f90d.css",
+    "main.js": "/li-remade/static/js/main.8d5900aa.js",
     "static/js/787.7c498391.chunk.js": "/li-remade/static/js/787.7c498391.chunk.js",
     "static/media/pexels-pixabay-220453.jpg": "/li-remade/static/media/pexels-pixabay-220453.6b73fd246a999fb8e32e.jpg",
     "static/media/pexels-chloe-1043471.jpg": "/li-remade/static/media/pexels-chloe-1043471.b336031de8e710ee963a.jpg",
     "static/media/pexels-italo-melo-2379004.jpg": "/li-remade/static/media/pexels-italo-melo-2379004.1f3e2a391e8eb0ab30f9.jpg",
+    "static/media/motivationalpost.jpg": "/li-remade/static/media/motivationalpost.e86281c5a0e8536ea99c.jpg",
     "static/media/headshot.jpg": "/li-remade/static/media/headshot.9f49d4ffcf12d9db7e35.jpg",
     "static/media/likeicon.png": "/li-remade/static/media/likeicon.46ded05362a756648028.png",
     "static/media/send.png": "/li-remade/static/media/send.8698d16523c5f6ab7686.png",
+    "static/media/searchicon.png": "/li-remade/static/media/searchicon.a27091ef0c45faf8a66e.png",
     "index.html": "/li-remade/index.html",
-    "main.001db4b4.css.map": "/li-remade/static/css/main.001db4b4.css.map",
-    "main.35770897.js.map": "/li-remade/static/js/main.35770897.js.map",
+    "main.78c3f90d.css.map": "/li-remade/static/css/main.78c3f90d.css.map",
+    "main.8d5900aa.js.map": "/li-remade/static/js/main.8d5900aa.js.map",
     "787.7c498391.chunk.js.map": "/li-remade/static/js/787.7c498391.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.001db4b4.css",
-    "static/js/main.35770897.js"
+    "static/css/main.78c3f90d.css",
+    "static/js/main.8d5900aa.js"
   ]
 }
