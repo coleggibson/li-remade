@@ -15,7 +15,6 @@
     padding: 10px;
     border-radius: 10px;
     height: fit-content;
-    
 }
 
 .post-top-info {
@@ -60,7 +59,7 @@
 .react-button:hover {
     background-color: rgb(233, 228, 228);
     cursor: pointer;
-    transition: .5s;
+    transition: .3s;
 }
 
 .content-icon {

@@ -7,6 +7,7 @@
     padding-top: 10px;
     padding-left:40px;
     padding-right: 60px;
+    padding-bottom: 5px;
 }
 
 .submit-subsection {
@@ -16,7 +17,7 @@
 }
 
 #submit-bar-top {
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 
 #submit-input {
@@ -35,4 +36,14 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    height: 40px;
+    width: 90px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.submit-button:hover {
+    background-color: rgb(233, 228, 228);
+    cursor: pointer;
+    transition: .5s;
 }
