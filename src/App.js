@@ -27,14 +27,14 @@ function App() {
      <header>
       <Navigation/>
      </header>
-     <body id='main-body'>
+     <div id='main-body'>
       <div id='content-block' onClick={() => hideDiv()}></div>
       <ProfileInfo/>
       <SubmitBar/>
       <ContentSection/>
       <NewsSection/>
       <PromotedSection/>
-     </body>
+     </div>
      <footer></footer>
     </div>
   );
