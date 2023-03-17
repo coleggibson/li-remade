@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/li-remade/static/css/main.9e9ee2f5.css",
+    "main.css": "/li-remade/static/css/main.f824fc23.css",
     "main.js": "/li-remade/static/js/main.f5e12879.js",
     "static/js/787.7c498391.chunk.js": "/li-remade/static/js/787.7c498391.chunk.js",
     "static/media/pexels-pixabay-220453.jpg": "/li-remade/static/media/pexels-pixabay-220453.6b73fd246a999fb8e32e.jpg",
@@ -12,12 +12,12 @@
     "static/media/send.png": "/li-remade/static/media/send.8698d16523c5f6ab7686.png",
     "static/media/searchicon.png": "/li-remade/static/media/searchicon.a27091ef0c45faf8a66e.png",
     "index.html": "/li-remade/index.html",
-    "main.9e9ee2f5.css.map": "/li-remade/static/css/main.9e9ee2f5.css.map",
+    "main.f824fc23.css.map": "/li-remade/static/css/main.f824fc23.css.map",
     "main.f5e12879.js.map": "/li-remade/static/js/main.f5e12879.js.map",
     "787.7c498391.chunk.js.map": "/li-remade/static/js/787.7c498391.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9e9ee2f5.css",
+    "static/css/main.f824fc23.css",
     "static/js/main.f5e12879.js"
   ]
 }
